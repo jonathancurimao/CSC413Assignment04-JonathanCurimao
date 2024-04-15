@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-!**/src/main/**/out/
+!**/src/
 
 ### Eclipse ###
 .apt_generated
